@@ -1,0 +1,12 @@
+//keywords
+
+CheckPassword	KEYWORD2
+SetPasswordLength	KEYWORD2
+CheckUser	KEYWORD2
+EnterData	KEYWORD2
+AddPassword	KEYWORD2
+EnterKey	KEYWORD2
+BackSpaceKey	KEYWORD2
+SetLockout	KEYWORD2
+RemainingAttempts	KEYWORD2
+DeleteEventPassword	KEYWORD2
